@@ -60,4 +60,4 @@ crashlytics-build.properties
 
 # ImportAssets
 Assets/OpenCV+Unity*
-
+Assets/Plugins/Editor/JetBrains*
